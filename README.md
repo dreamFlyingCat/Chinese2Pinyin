@@ -1,0 +1,2 @@
+# chinese_convert_to_pinyin_or_capitals
+中文转拼音或者首字母缩写
