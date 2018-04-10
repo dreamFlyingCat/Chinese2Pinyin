@@ -1,0 +1,26 @@
+{
+  "name": "chinese_convert_to_pinyin_or_capitals",
+  "version": "1.0.0",
+  "description": "chinese_convert_to_pinyin_or_capitals",
+  "main": "./src/convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamFlyingCat/chinese_convert_to_pinyin_or_capitals.git"
+  },
+  "keywords": [
+    "中文转拼音", "javascript"
+  ],
+  "author": "刘亚利",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreamFlyingCat/chinese_convert_to_pinyin_or_capitals/issues"
+  },
+  "homepage": "https://github.com/dreamFlyingCat/chinese_convert_to_pinyin_or_capitals#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  }
+}
