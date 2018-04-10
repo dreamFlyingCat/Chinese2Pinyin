@@ -17,12 +17,12 @@
 使用npm安装:
 
 ```
-npm install Chinese2Pinyin
+npm install chinese2pinyin
 ```
 
 ## 使用
 
-    const convert = require('Chinese2Pinyin');
+    const convert = require('chinese2pinyin');
     
     // 输出拼音ZhongWenZhuanPinYinHuoShouZiMu
     convert({ 

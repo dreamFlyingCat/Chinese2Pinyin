@@ -1,5 +1,5 @@
 {
-  "name": "Chinese2Pinyin",
+  "name": "chinese2pinyin",
   "version": "1.0.0",
   "description": "Chinese2Pinyin",
   "main": "./src/convert.js",
