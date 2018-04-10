@@ -1,14 +1,14 @@
 {
-  "name": "chinese_convert_to_pinyin_or_capitals",
+  "name": "Chinese2Pinyin",
   "version": "1.0.0",
-  "description": "chinese_convert_to_pinyin_or_capitals",
+  "description": "Chinese2Pinyin",
   "main": "./src/convert.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dreamFlyingCat/chinese_convert_to_pinyin_or_capitals.git"
+    "url": "git+https://github.com/dreamFlyingCat/Chinese2Pinyin"
   },
   "keywords": [
     "中文转拼音", "javascript"
@@ -16,9 +16,9 @@
   "author": "刘亚利",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dreamFlyingCat/chinese_convert_to_pinyin_or_capitals/issues"
+    "url": "https://github.com/dreamFlyingCat/Chinese2Pinyin/issues"
   },
-  "homepage": "https://github.com/dreamFlyingCat/chinese_convert_to_pinyin_or_capitals#readme",
+  "homepage": "https://github.com/dreamFlyingCat/Chinese2Pinyin",
   "devDependencies": {
     "chai": "^4.1.2",
     "mocha": "^5.0.5"
